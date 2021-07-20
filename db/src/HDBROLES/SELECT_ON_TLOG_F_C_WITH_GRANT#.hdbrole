@@ -5,7 +5,7 @@
       {
         "name": "TLOG_F_C",
         "type": "TABLE",
-        "privileges": [
+        "privileges_with_grant_option": [
           "SELECT"
         ]
       }
